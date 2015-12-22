@@ -11,3 +11,7 @@ Static					https://msdn.microsoft.com/en-us/library/y5f6w579.aspx
 #Random Drops of Knowledge
 
 -translation unit is source file AFTER pre-processing b/c of include and include guards 
+
+-compiling has 2 steps: (1)compiling and (2)linking;  http://stackoverflow.com/questions/5115556/c-using-namespace-and-include
+
+-put "include"s together, and THEN all "using"s; otherwise, a "using" allows "include"s below to bypass the qualifier 
