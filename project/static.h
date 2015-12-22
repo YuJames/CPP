@@ -1,4 +1,10 @@
 #pragma once
+#include <string>
+#include <iostream>
+using std::string;
+using std::cout;
+using std::endl;
+
 void print1();
 void print2();
 extern int exampleVariable1;
