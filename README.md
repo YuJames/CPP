@@ -1,5 +1,7 @@
 #Learn C++
 
+Namespaces      https://msdn.microsoft.com/en-us/library/5cb46ksf.aspx
+
 Nested Classes  https://msdn.microsoft.com/en-us/library/x23h0937.aspx
 
 Pragma Once			https://msdn.microsoft.com/en-us/library/4141z1cx.aspx
