@@ -17,3 +17,12 @@ Static					https://msdn.microsoft.com/en-us/library/y5f6w579.aspx
 -compiling has 2 steps: (1)compiling and (2)linking;  http://stackoverflow.com/questions/5115556/c-using-namespace-and-include
 
 -put "include"s together, and THEN all "using"s; otherwise, a "using" allows "include"s below to bypass the qualifier 
+
+
+#Navigating the Files
+
+-main.cpp runs example code for each topic-of-interest
+
+-each topic can have an additional appropriately-named file(s)
+
+-additional information can be found at the top those files
