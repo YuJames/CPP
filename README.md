@@ -25,4 +25,6 @@ Static					https://msdn.microsoft.com/en-us/library/y5f6w579.aspx
 
 -each topic can have an additional appropriately-named file(s)
 
--additional information can be found at the top those files
+-topic information can be found at the top of those files
+
+-numbered information comes with example code; non-numbered information does not
