@@ -1,5 +1,7 @@
 #Learn C++
 
+Koenig Lookup   https://msdn.microsoft.com/en-us/library/60bx1ys7.aspx
+
 Namespaces      https://msdn.microsoft.com/en-us/library/5cb46ksf.aspx
 
 Nested Classes  https://msdn.microsoft.com/en-us/library/x23h0937.aspx
