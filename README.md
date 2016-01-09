@@ -1,14 +1,21 @@
 #Learn C++
 
-Koenig Lookup   https://msdn.microsoft.com/en-us/library/60bx1ys7.aspx
+Koenig Lookup   
+https://msdn.microsoft.com/en-us/library/60bx1ys7.aspx
 
-Namespaces      https://msdn.microsoft.com/en-us/library/5cb46ksf.aspx
+https://www.youtube.com/watch?v=TxgPZXe8XTo
 
-Nested Classes  https://msdn.microsoft.com/en-us/library/x23h0937.aspx
+Namespaces      
+https://msdn.microsoft.com/en-us/library/5cb46ksf.aspx
 
-Pragma Once			https://msdn.microsoft.com/en-us/library/4141z1cx.aspx
+Nested Classes  
+https://msdn.microsoft.com/en-us/library/x23h0937.aspx
 
-Static					https://msdn.microsoft.com/en-us/library/y5f6w579.aspx
+Pragma Once			
+https://msdn.microsoft.com/en-us/library/4141z1cx.aspx
+
+Static					
+https://msdn.microsoft.com/en-us/library/y5f6w579.aspx
 
 
 
