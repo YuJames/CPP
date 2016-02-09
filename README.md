@@ -27,6 +27,7 @@ https://msdn.microsoft.com/en-us/library/y5f6w579.aspx
 
 -put "include"s together, and THEN all "using"s; otherwise, a "using" allows "include"s below to bypass the qualifier 
 
+-include guards > pragma once??? b/c http://stackoverflow.com/questions/1143936/pragma-once-vs-include-guards
 
 #Navigating the Files
 
