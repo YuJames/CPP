@@ -14,6 +14,9 @@ https://msdn.microsoft.com/en-us/library/x23h0937.aspx
 Pragma Once			
 https://msdn.microsoft.com/en-us/library/4141z1cx.aspx
 
+Rvalue references   
+http://thbecker.net/articles/rvalue_references/section_01.html
+
 Static					
 https://msdn.microsoft.com/en-us/library/y5f6w579.aspx
 
