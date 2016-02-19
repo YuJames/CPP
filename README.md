@@ -32,6 +32,8 @@ https://msdn.microsoft.com/en-us/library/y5f6w579.aspx
 
 -include guards > pragma once??? b/c http://stackoverflow.com/questions/1143936/pragma-once-vs-include-guards
 
+-compilation of template code http://stackoverflow.com/questions/19798325/template-compilation
+
 #Navigating the Files
 
 -main.cpp runs example code for each topic-of-interest
