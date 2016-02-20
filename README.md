@@ -34,6 +34,8 @@ https://msdn.microsoft.com/en-us/library/y5f6w579.aspx
 
 -compilation of template code http://stackoverflow.com/questions/19798325/template-compilation
 
+-typename vs class keyword http://stackoverflow.com/questions/213121/use-class-or-typename-for-template-parameters
+
 #Navigating the Files
 
 -main.cpp runs example code for each topic-of-interest
