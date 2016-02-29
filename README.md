@@ -1,8 +1,11 @@
 #Learn C++
 
-Koenig Lookup   
-https://msdn.microsoft.com/en-us/library/60bx1ys7.aspx
+Functors    
+http://stackoverflow.com/questions/356950/c-functors-and-their-uses   
+http://www.cprogramming.com/tutorial/functors-function-objects-in-c++.html
 
+Koenig Lookup   
+https://msdn.microsoft.com/en-us/library/60bx1ys7.aspx  
 https://www.youtube.com/watch?v=TxgPZXe8XTo
 
 Namespaces      
