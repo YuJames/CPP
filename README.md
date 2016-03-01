@@ -26,6 +26,9 @@ http://thbecker.net/articles/rvalue_references/section_01.html
 Static					
 https://msdn.microsoft.com/en-us/library/y5f6w579.aspx
 
+std::function   
+http://stackoverflow.com/questions/14677997/stdfunction-vs-template
+
 Using keyword   
 https://msdn.microsoft.com/en-us/library/was37tzw.aspx
 
