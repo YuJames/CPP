@@ -29,6 +29,9 @@ https://msdn.microsoft.com/en-us/library/y5f6w579.aspx
 std::function   
 http://stackoverflow.com/questions/14677997/stdfunction-vs-template
 
+Typedef   
+http://www.cprogramming.com/tutorial/typedef.html
+
 Using keyword   
 https://msdn.microsoft.com/en-us/library/was37tzw.aspx
 
