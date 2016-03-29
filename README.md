@@ -1,5 +1,8 @@
 #Learn C++
 
+Friend    
+https://en.wikipedia.org/wiki/Friend_class
+
 Functors    
 http://stackoverflow.com/questions/356950/c-functors-and-their-uses   
 http://www.cprogramming.com/tutorial/functors-function-objects-in-c++.html
