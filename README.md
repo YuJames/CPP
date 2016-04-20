@@ -27,7 +27,8 @@ Pragma Once
 https://msdn.microsoft.com/en-us/library/4141z1cx.aspx
 
 Rvalue references   
-http://thbecker.net/articles/rvalue_references/section_01.html
+http://thbecker.net/articles/rvalue_references/section_01.html    
+http://blog.smartbear.com/development/c11-tutorial-explaining-the-ever-elusive-lvalues-and-rvalues/
 
 Static					
 https://msdn.microsoft.com/en-us/library/y5f6w579.aspx
