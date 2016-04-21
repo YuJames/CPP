@@ -1,7 +1,8 @@
 #Learn C++
 
 Auto & Decltype   
-http://www.cprogramming.com/c++11/c++11-auto-decltype-return-value-after-function.html
+http://www.cprogramming.com/c++11/c++11-auto-decltype-return-value-after-function.html    
+https://msdn.microsoft.com/en-us/library/dd537655.aspx
 
 Friend    
 https://en.wikipedia.org/wiki/Friend_class
