@@ -39,6 +39,9 @@ http://stackoverflow.com/questions/14677997/stdfunction-vs-template
 Typedef   
 http://www.cprogramming.com/tutorial/typedef.html
 
+Typename    
+http://pages.cs.wisc.edu/~driscoll/typename.html
+
 Using keyword   
 https://msdn.microsoft.com/en-us/library/was37tzw.aspx
 
