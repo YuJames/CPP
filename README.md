@@ -15,6 +15,9 @@ Koenig Lookup
 https://msdn.microsoft.com/en-us/library/60bx1ys7.aspx  
 https://www.youtube.com/watch?v=TxgPZXe8XTo
 
+Lambda    
+http://www.cprogramming.com/c++11/c++11-lambda-closures.html
+
 Namespaces      
 https://msdn.microsoft.com/en-us/library/5cb46ksf.aspx
 
