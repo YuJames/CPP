@@ -1,5 +1,9 @@
-#Learn C++
-
+# C++ Repo Notes
+## Purpose
+The purpose of this repo is to learn C++, gather relevant material, and demonstrate my progress and skills.
+## Notes
+## Interesting Modules
+## Etc
 Auto & Decltype   
 http://www.cprogramming.com/c++11/c++11-auto-decltype-return-value-after-function.html    
 https://msdn.microsoft.com/en-us/library/dd537655.aspx
@@ -49,9 +53,6 @@ http://pages.cs.wisc.edu/~driscoll/typename.html
 Using keyword   
 https://msdn.microsoft.com/en-us/library/was37tzw.aspx
 
-
-#Random Drops of Knowledge
-
 -translation unit is source file AFTER pre-processing b/c of include and include guards 
 
 -compiling has 2 steps: (1)compiling and (2)linking;  http://stackoverflow.com/questions/5115556/c-using-namespace-and-include
@@ -64,7 +65,7 @@ https://msdn.microsoft.com/en-us/library/was37tzw.aspx
 
 -typename vs class keyword http://stackoverflow.com/questions/213121/use-class-or-typename-for-template-parameters
 
-#Navigating the Files
+# Navigating the Files
 
 -main.cpp runs example code for each topic-of-interest
 
