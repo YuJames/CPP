@@ -1,9 +1,9 @@
 # C++ Repo Notes
 ## Purpose
-The purpose of this repo is to learn C++, gather relevant material, and demonstrate my progress and skills.
+The purpose of this repo is to learn C++, gather relevant material, and demonstrate my progress.
 ## Notes
 ## Interesting Modules
-## Etc
+## Interesting Info
 Auto & Decltype   
 http://www.cprogramming.com/c++11/c++11-auto-decltype-return-value-after-function.html    
 https://msdn.microsoft.com/en-us/library/dd537655.aspx
@@ -65,12 +65,4 @@ https://msdn.microsoft.com/en-us/library/was37tzw.aspx
 
 -typename vs class keyword http://stackoverflow.com/questions/213121/use-class-or-typename-for-template-parameters
 
-# Navigating the Files
-
--main.cpp runs example code for each topic-of-interest
-
--each topic can have an additional appropriately-named file(s)
-
--topic information can be found at the top of those files
-
--numbered information comes with example code; non-numbered information does not
+## Explore Later
